@@ -41,7 +41,7 @@ Features
 
 Screenshots
 ===========
-![Main Screen](https://sourceforge.net/p/utuner/screenshot/screenshot1.jpg "Main Screen")
+![Main Screen](https://raw.github.com/ssnake/utuner/master/wiki/screenshot1.jpg "Main Screen")
 
 More information on [wiki](https://github.com/ssnake/utuner/wiki)
 
